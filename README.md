@@ -7,7 +7,7 @@ A personal grade assistant for Dutch students, providing an overview of your gra
 <div><img width="50" height="50" src="https://cijferroyale.nl/images/logo.png" alt="Logo" style="
 border-radius: 20%;">
             <a href="https://apps.apple.com/nl/app/cijfer-royale/id1671531644?itsct=apps_box_badge&amp;itscg=30200" style="height: 50;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-en?size=250x83&amp;releaseDate=1549929600" alt="Download on the App Store" style=" height: 50;"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.cijferroyale.CijferRoyale&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" style="height: 50;"><img alt="Ontdek het op Google Play" src="https://cijferroyale.nl/images/nl_google_play_badge_web_generic.png" style=" height: 50;"></a>
+            <a href="https://play.google.com/store/apps/details?id=com.cijferroyale.CijferRoyale&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" style="height: 50px;"><img alt="Ontdek het op Google Play" src="https://cijferroyale.nl/images/nl_google_play_badge_web_generic.png" style=" height: 50px;"></a>
  </div>
 
 ## Tech Stack
