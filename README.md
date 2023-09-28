@@ -38,4 +38,3 @@ border-radius:20%;">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=qujeee&show_icons=true&count_private=true" alt="qujeee-stats" /> -->
 ![](https://komarev.com/ghpvc/?username=qujeee&color=orange)
-
