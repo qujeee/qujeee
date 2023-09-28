@@ -26,7 +26,7 @@ border-radius: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35" />
 <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" alt="docker" width="35" height="35" />
 <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="docker" width="35" height="35" />
-
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="35" height="35" />
 <img src="https://cdn.serif.com/affinity/img/global/logos/affinity-designer-2-020520191502.svg" alt="affinitydesigner" width="35" height="35" />
 <img src="https://cdn.serif.com/affinity/img/global/logos/affinity-photo-2-020520191502.svg" alt="affinityphoto" width="35" height="35" />
