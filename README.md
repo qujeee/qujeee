@@ -3,7 +3,7 @@ A software developer from the Netherlands 🇳🇱
 
 **⚡️ Developer of Cijfer Royale (40.000 users)**
 
-A personal grade assistant for Dutch students, providing an overview of your grades with graphs 📈, averages 📊, and calculations 🧮, seamlessly integrated with student information platform Somtoday for automatic grade updates, or manual entry if needed – the ultimate student tool.
+A personal grade assistant for Dutch students, providing an overview of your grades with graphs 📈, averages 📊, and calculations 🧮, seamlessly integrated with student information platform Somtoday for automatic grade updates, or manual entry if needed – the ultimate student tool. Made with Flutter.
 
 <div><img width="50px" height="50px" src="https://cijferroyale.nl/images/logo.png" alt="Logo" style="
 border-radius:20%;">
